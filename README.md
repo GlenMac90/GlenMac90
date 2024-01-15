@@ -1,4 +1,22 @@
-### Hi there 👋
+![Project Screenshot](https://jjxiydcvcwtbswunystj.supabase.co/storage/v1/object/public/readme/readme/Glen%20McCallum.png)
+
+### I am currently participating in the **JS Masterclass Experience** 
+### Passionate about crafting beautiful user interfaces 
+### Feel free to contact me. 
+### Email: **glen.mccallum@live.co.uk** 
+### Tel: **+44 7984 365789** 
+### [Instagram](https://www.instagram.com/glenmacdev/) [GitHub](https://github.com/GlenMac90/) 
+### My Skills 
+![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,next,git,github)
+
+## Connect with me:
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/glenmccallum/)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/glenmacdev/)
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/GlenMac90/)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GlenMac90&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlenMac90&theme=tokyonight)
 
 <!--
 **GlenMac90/GlenMac90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
