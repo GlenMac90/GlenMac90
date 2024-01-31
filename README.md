@@ -1,7 +1,7 @@
 ![Project Screenshot](https://jjxiydcvcwtbswunystj.supabase.co/storage/v1/object/public/readme/readme/Glen%20McCallum.png)
 
 ### **JS Masterclass Experience** Graduate
-### Passionate about crafting beautiful user interfaces 
+### I create beautiful and responsive user interfaces 
 ### Feel free to contact me. 
 ### Email: **glen.mccallum@live.co.uk** 
 ### Tel: **+44 7984 365789** 
