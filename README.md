@@ -1,6 +1,6 @@
 ![Project Screenshot](https://jjxiydcvcwtbswunystj.supabase.co/storage/v1/object/public/readme/readme/Glen%20McCallum.png)
 
-### I am currently participating in the **JS Masterclass Experience** 
+### **JS Masterclass Experience** Graduate
 ### Passionate about crafting beautiful user interfaces 
 ### Feel free to contact me. 
 ### Email: **glen.mccallum@live.co.uk** 
